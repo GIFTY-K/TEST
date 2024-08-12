@@ -14,6 +14,10 @@ The data used for this work is obtained from the adventure works 2019 database.
 * wfcjndshcuikauycheuygy
 + ewjbcgsfsjsbjhbdjsdc 
 ## DATA MODELLING
-OLD MODEL     |  NEW MODEL
-:------------:|  :--------|
-![]()
+OLD MODEL             |  NEW MODEL
+:-------------------: |  :---------------:
+![](Convert{img}.PNG) |  ![](Convert{img}.PNG)
+## DATA ANALYSIS
+HDCJhdscjusdcidsjvcfhersjdvc
+## CONCLUSION
+KDHSKDCHJDSN
